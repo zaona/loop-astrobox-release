@@ -19,7 +19,13 @@
       }
     ]
   },
-  "links": [],
+  "links": [
+    {
+      "title": "使用教程",
+      "url": "https://loop.zaona.top/",
+      "icon": "Notebook"
+    }
+  ],
   "downloads": {
     "xmb10p": {
       "version": "1.0.0",
