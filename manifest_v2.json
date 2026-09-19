@@ -29,17 +29,17 @@
   "downloads": {
     "xmb10p": {
       "version": "1.0.0",
-      "file_name": "downloads/resource-xmb10p.bin",
+      "file_name": "downloads/resource-xmb10p-xmb10p.bin",
       "versionCode": 1
     },
     "xmb11": {
       "version": "1.0.0",
-      "file_name": "downloads/resource-xmb11.bin",
+      "file_name": "downloads/resource-xmb11-xmb11.bin",
       "versionCode": 1
     },
     "xmb11nfc": {
       "version": "1.0.0",
-      "file_name": "downloads/resource-xmb11nfc.bin",
+      "file_name": "downloads/resource-xmb11-xmb11nfc.bin",
       "versionCode": 1
     }
   },
