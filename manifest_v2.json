@@ -5,6 +5,7 @@
     "name": "Loop课程表",
     "description": "一个 Canopus 模块，需要 Canpous 框架工作，在安装的同时请安装 Canopus 管理器。在手表上查看本周课表，现在上什么、下一节是什么，一眼就清楚。 原生，流畅。",
     "preview": [
+      "media/preview.png",
       "media/20260908142641_1.png",
       "media/20260909134401_8.png",
       "media/20260909134550_10.png",
