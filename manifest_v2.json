@@ -24,24 +24,48 @@
     {
       "title": "使用教程",
       "url": "https://loop.zaona.top/",
-      "icon": "Notebook"
+      "icon": "notebook"
     }
   ],
   "downloads": {
     "xmb10p": {
-      "version": "1.0.0",
-      "file_name": "downloads/resource-xmb10p-xmb10p.bin",
-      "versionCode": 1
+      "version": "0.3.5",
+      "file_name": "downloads/loop-0.3.5.canopus",
+      "versionCode": 8,
+      "canopus": {
+        "abi": 2,
+        "targets": [
+          "xiaomi-band-10-pro-3.101.043",
+          "xiaomi-band-11-4.100.155",
+          "xiaomi-band-11-4.100.179"
+        ]
+      }
     },
     "xmb11": {
-      "version": "1.0.0",
-      "file_name": "downloads/resource-xmb11-xmb11.bin",
-      "versionCode": 1
+      "version": "0.3.5",
+      "file_name": "downloads/loop-0.3.5.canopus",
+      "versionCode": 8,
+      "canopus": {
+        "abi": 2,
+        "targets": [
+          "xiaomi-band-10-pro-3.101.043",
+          "xiaomi-band-11-4.100.155",
+          "xiaomi-band-11-4.100.179"
+        ]
+      }
     },
     "xmb11nfc": {
-      "version": "1.0.0",
-      "file_name": "downloads/resource-xmb11-xmb11nfc.bin",
-      "versionCode": 1
+      "version": "0.3.5",
+      "file_name": "downloads/loop-0.3.5.canopus",
+      "versionCode": 8,
+      "canopus": {
+        "abi": 2,
+        "targets": [
+          "xiaomi-band-10-pro-3.101.043",
+          "xiaomi-band-11-4.100.155",
+          "xiaomi-band-11-4.100.179"
+        ]
+      }
     }
   },
   "ext": {
@@ -49,12 +73,8 @@
     "bundledResources": {
       "required": [
         {
-          "type": "resource",
-          "id": "top.zaona.loopimport"
-        },
-        {
           "type": "plugin",
-          "name": "Loop课表导入器"
+          "id": "Loop课表导入器"
         }
       ]
     }
